@@ -1,6 +1,6 @@
 # eventbooking
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue projekt hvor det er muligt for brugeren at booke et lokale. Forbundet med firebase realtime database. 
 
 ## Recommended IDE Setup
 
